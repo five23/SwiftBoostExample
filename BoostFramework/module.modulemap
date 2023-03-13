@@ -1,0 +1,4 @@
+module BoostFramework {
+    header "BoostFramework.hpp"
+    requires cplusplus
+}

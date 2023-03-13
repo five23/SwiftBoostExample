@@ -1,0 +1,6 @@
+framework module Pods_SwiftBoostExample {
+  umbrella header "Pods-SwiftBoostExample-umbrella.h"
+
+  export *
+  module * { export * }
+}
