@@ -2,7 +2,7 @@
 
 I'm new to Swift and it wasn't immediately clear how to easily import and use Boost Framework functions, so here's a very basic example for anyone else wanting to do this. 
 
-<img src="./assets/screenshot02.png" title="Boost Usage Example" alt="Boost Usage Example" width="700">
+<img src="./assets/screenshot00.png" title="Boost Usage Example" alt="Boost Usage Example" width="700">
 
 ## Requirements
 
